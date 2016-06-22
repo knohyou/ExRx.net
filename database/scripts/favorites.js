@@ -1,6 +1,7 @@
 
-    // Saves message on form submit.
 
+////////////////////////// Add to Favorites //////////////////////
+    // Saves message on form submit.
     'use strict';
 
    // var username = document.getElementById('username-text');
@@ -25,6 +26,7 @@
         description: exerciseDescription,
         muscle: muscleGroup
       }); 
-      //alert('Did it work?'); 
+      alert('Added to favorites'); 
      };
+
 
